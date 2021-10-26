@@ -19,7 +19,7 @@ const Hero = (props) => (
         I'm an Universiti Sains Malaysia student for Degree of Computer Science
         ( Data Analytics).
       </SectionText>
-      <Button onClick={() => window.open("//"+"altosharepdf.com/share/23617ca4ef85e3cef60492a2e224374f", '_blank')}>
+      <Button onClick={() => window.open("https://drive.google.com/file/d/1FzgFakT5dp7WPdvCRQk-FW-9mVUt8b6t/view?usp=sharing", '_blank')}>
         Check out my CV
       </Button>
     </LeftSection>
