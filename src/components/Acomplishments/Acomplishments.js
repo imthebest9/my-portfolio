@@ -8,9 +8,13 @@ import {
 import { Box, Boxes, BoxNum, BoxText } from "./AcomplishmentsStyles";
 
 const data = [
+  {
+    number: "11 Projects",
+    text: "CS50's Introduction to AI with Python",
+  },
   { number: "3.76", text: "Current CGPA at USM" },
   { number: "4.0", text: "Matriculation CGPA" },
-  { number: "11 A", text: "SPM results" },
+  { number: "11 A's", text: "SPM results" },
 ];
 
 const Acomplishments = () => (

@@ -39,7 +39,26 @@ export const projects = [
     visit: "https://google.com",
     id: 3,
   },
-  
+  {
+    title: "Graph Visualiser",
+    description:
+      "This a small project that visualizes a graph with 5 nodes and checks the status of graph every time a vertex is assigned. This program allows user to find the shortest path between two nodes, detect cycles and/or strong connectivity within the graph.",
+    image: "/images/graph.png",
+    tags: ["Python"],
+    source: "https://github.com/imthebest9/Graph-visualiser",
+    visit: "https://youtu.be/ftFRcZmQaKM",
+    id: 4,
+  },
+  {
+    title: "Memory Partition Simulator",
+    description:
+      "A simulation program developed in Java programming language that visualizes the storage placement strategy: fixed partition and dynamic partition. This program also includes options to choose between allocation method of the memory blocks.",
+    image: "/images/meomry.png",
+    tags: ["Java"],
+    source: "https://github.com/imthebest9/Memory-allocation-simulator",
+    visit: "https://youtu.be/Kef3vJsY2Jw",
+    id: 5,
+  },
 ];
 
 export const TimeLineData = [
