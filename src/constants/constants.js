@@ -32,10 +32,10 @@ export const projects = [
   {
     title: "E-Commerce",
     description:
-      "While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
-    image: "/images/2.png",
+      "Using React framework, this minimalistic ecommerce app is created using simple means. In the website, we can see different categories of clothings display in a very user-friendly way. While building it, I learn many advanced React & JavaScript topics, as well as how to optimise the website for every use of device. And trust me, e-commerce applications are impressive.",
+    image: "/images/ecommerce.png",
     tags: ["React", "JavaScript"],
-    source: "https://google.com",
+    source: "https://github.com/imthebest9/ecommerce-react",
     visit: "https://google.com",
     id: 3,
   },
